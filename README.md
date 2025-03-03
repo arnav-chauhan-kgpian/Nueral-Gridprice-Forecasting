@@ -1,6 +1,6 @@
 # The Neural Grid: Deep Learning for Smart Electricity Pricing #
 
-Project performed by- Arnav Chauhan, UG Student [IIT-Kharagpur'27]
+Project performed by- Arnav Chauhan, UG Student [IIT-Kharagpur'27] __
 In an era where energy markets fluctuate unpredictably, accurate electricity price forecasting is more crucial than ever. Driven by a dynamic interplay of supply, demand, weather conditions, electricity prices exhibit complex patterns that challenge traditional forecasting methods.  
 
 This project harnesses the power of advanced machine learning and time-series modeling—including LSTMS,Encoder-Decoders,CNN-stacked LSTMs and other complex architectures—to predict electricity prices with greater precision. By integrating historical consumption trends, weather data, and market signals, I aim to develop a robust forecasting model capable of delivering reliable **day-ahead** price predictions, **greatly outperforming the original TSO(Transmission Supply Operator) similar forecast**
